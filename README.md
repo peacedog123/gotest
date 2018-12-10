@@ -1,1 +1,1 @@
-# hello
+# some go basic usage example
